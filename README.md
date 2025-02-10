@@ -1,5 +1,5 @@
 -👀 Estou interessado em tecnologia, programação e inovação.
-🌱 Atualmente, estou aprendendo desenvolvimento back end para me tornar um profissional de qualidade.
+🌱 Atualmente, estou aprendendo desenvolvimento Front-End para me tornar um profissional de qualidade.
 💞️ Estou buscando colaborar em projetos que desafiem minhas habilidades e me permitam crescer como desenvolvedor.
 📫 Você pode me contatar através do meu e-mail daniloflorencio30@gmail.com ou via mensagem direta aqui no GitHub.
 😄 Pronomes: Ele/Dele
